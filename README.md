@@ -1,5 +1,6 @@
 # DjangoApi
 DjangoApi for Frexco internship program
+
 Candidate name: João Pedro C. Souza
 
 To execute this program you should use "python ./manage.py runserver" then click on the link generated.
